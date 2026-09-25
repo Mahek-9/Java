@@ -2,14 +2,11 @@
 node_modules/
 package-lock.json
 
-# Local workspace backups & subfolders
-FSW/
-
-# Environment and config
+# Environment & local configurations
 .env
 .env.local
 
-# Logs and system files
+# Logs and OS system files
 *.log
 npm-debug.log*
 .DS_Store

@@ -1,0 +1,128 @@
+[
+  {
+    "id": "1785950666485",
+    "description": "Salary",
+    "amount": 100000,
+    "type": "income",
+    "date": "2026-01-01"
+  },
+  {
+    "id": "1785950711044",
+    "description": "Rent",
+    "amount": 5000,
+    "type": "expense",
+    "date": "2026-01-28"
+  },
+  {
+    "id": "1785950743990",
+    "description": "Food",
+    "amount": 5000,
+    "type": "expense",
+    "date": "2026-01-15"
+  },
+  {
+    "id": "1785950791294",
+    "description": "Rent",
+    "amount": 5000,
+    "type": "expense",
+    "date": "2026-02-28"
+  },
+  {
+    "id": "1785950811738",
+    "description": "Food",
+    "amount": 5000,
+    "type": "expense",
+    "date": "2026-02-15"
+  },
+  {
+    "id": "1785950845637",
+    "description": "Food",
+    "amount": 5000,
+    "type": "expense",
+    "date": "2026-03-15"
+  },
+  {
+    "id": "1785950866322",
+    "description": "Rent",
+    "amount": 5000,
+    "type": "expense",
+    "date": "2026-03-28"
+  },
+  {
+    "id": "1785950902621",
+    "description": "Salary",
+    "amount": 100000,
+    "type": "income",
+    "date": "2026-04-01"
+  },
+  {
+    "id": "1785950954345",
+    "description": "Food",
+    "amount": 5000,
+    "type": "expense",
+    "date": "2026-04-15"
+  },
+  {
+    "id": "1785950996873",
+    "description": "Rent",
+    "amount": 5000,
+    "type": "expense",
+    "date": "2026-04-28"
+  },
+  {
+    "id": "1785951026027",
+    "description": "Food",
+    "amount": 5000,
+    "type": "expense",
+    "date": "2026-05-15"
+  },
+  {
+    "id": "1785951046301",
+    "description": "Rent",
+    "amount": 5000,
+    "type": "expense",
+    "date": "2026-05-28"
+  },
+  {
+    "id": "1785951072152",
+    "description": "Food",
+    "amount": 5000,
+    "type": "expense",
+    "date": "2026-06-15"
+  },
+  {
+    "id": "1785951090901",
+    "description": "Rent",
+    "amount": 5000,
+    "type": "expense",
+    "date": "2026-06-28"
+  },
+  {
+    "id": "1785951130137",
+    "description": "Salary",
+    "amount": 100000,
+    "type": "income",
+    "date": "2026-07-01"
+  },
+  {
+    "id": "1785951154348",
+    "description": "Food",
+    "amount": 5000,
+    "type": "expense",
+    "date": "2026-07-15"
+  },
+  {
+    "id": "1785951172984",
+    "description": "Rent",
+    "amount": 5000,
+    "type": "expense",
+    "date": "2026-07-28"
+  },
+  {
+    "id": "1786001813654",
+    "description": "rent",
+    "amount": 4000,
+    "type": "expense",
+    "date": "2026-08-06"
+  }
+]
